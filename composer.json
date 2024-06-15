@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1",
+        "cr/hashcli": "dev-master",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
